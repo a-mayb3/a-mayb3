@@ -1,4 +1,4 @@
-# [Edoardo Borgia Leiva's](https://github.com/Edoardo-B-Leiva) Certificates
+# [Borgia Leiva's](https://github.com/Edoardo-B-Leiva) Certificates
 Full list of my certificates
 - [My LinkedIn profile](https://www.linkedin.com/in/edoardo-b-leiva/)
 - [My Credly profile](https://www.credly.com/users/edoardo-borgia-leiva)

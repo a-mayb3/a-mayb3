@@ -14,7 +14,7 @@
 - Interested in:
   - Low level programming
   - Systems & embedded development
-## [Some of my certifications](https://github.com/Edoardo-B-Leiva/Edoardo-B-Leiva/blob/main/Certificates.md)
+## [Some of my certifications](https://github.com/a-mayb3/a-mayb3/blob/main/Certificates.md)
 [<img height="110px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">](https://www.credly.com/badges/dbee24e4-0808-425e-962e-257be6f154d2/public_url)
 [<img height="110px" src="https://images.credly.com/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob">](https://www.credly.com/badges/28dd4ae1-4b2c-4f7b-a8a6-1d5e943969ff/public_url)
 [<img height="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/205px-C_Sharp_Logo_2023.svg.png">](https://www.freecodecamp.org/certification/fcc6082798f-ea0c-461a-8572-ad4df08189a0/foundational-c-sharp-with-microsoft)

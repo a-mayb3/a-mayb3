@@ -14,10 +14,12 @@
 - Interested in:
   - Low level programming
   - Systems & embedded development
-## [Some of my certifications](https://github.com/a-mayb3/a-mayb3/blob/main/Certificates.md)
+## [Some of my certifications](https://github.com/a-mayb3/a-mayb3/blob/main/certifications.md)
 [<img height="110px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">](https://www.credly.com/badges/dbee24e4-0808-425e-962e-257be6f154d2/public_url)
 [<img height="110px" src="https://images.credly.com/images/f0ea261a-b9b5-4451-810f-271943e2a6a9/blob">](https://www.credly.com/badges/28dd4ae1-4b2c-4f7b-a8a6-1d5e943969ff/public_url)
 [<img height="110px" src="https://images.credly.com/images/fe724d20-7a05-417e-b10a-29e458a3fc04/blob">](https://www.credly.com/badges/d403a6d7-070c-4688-bf8c-8ecedf02344f/public_url)
+[<img height="110px" src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" />](https://www.credly.com/badges/70d228b5-9605-4ee9-99e3-f3134b34e057/public_url)
+[<img height="110px" src="https://images.credly.com/images/2210b6fe-0eda-415a-8aba-6c1400566728/ITS-Badges_Java_1200px.png" />](https://www.credly.com/badges/a65e2228-b304-41d2-b586-47d2385cc1e7/public_url)
 [<img height="110px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/205px-C_Sharp_Logo_2023.svg.png">](https://www.freecodecamp.org/certification/fcc6082798f-ea0c-461a-8572-ad4df08189a0/foundational-c-sharp-with-microsoft)
 [![Cisco & OpenEDG PI Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/9adfaa8d-f71d-4fe5-8665-ffc1ac0e3e1e/public_url)
 [![Cisco Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/101addd8-74f6-4613-8936-a7410b03f99b/public_url)

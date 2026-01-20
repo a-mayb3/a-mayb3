@@ -6,16 +6,23 @@ Full list of my certificates
 - [My LFX profile](https://openprofile.dev/profile/edoardobleiva)
 
 List of certificate issuers
-- [Certifprof](Certificates.md#certiprof)
-- [Cisco NetAcademy](Certificates.md#cisco-netacademy)
-- [The Linux Foundation](Certificates.md#the-linux-foundation)
-- [freeCodeCamp](Certificates.md#freecodecamp)
-- [SoloLearn](Certificates.md#sololearn)
+- [Certifprof](certifications.md#certiprof)
+- [Certifprof](certifications.md#certiport)
+- [Cisco NetAcademy](certifications.md#cisco-netacademy)
+- [The Linux Foundation](certifications.md#the-linux-foundation)
+- [freeCodeCamp](certifications.md#freecodecamp)
+- [SoloLearn](certifications.md#sololearn)
 
 ## Certiprof
 |Badge|Name|Issuing date|Expiring date|
 |-----|----|------------|-------------|
 |[<img height="110px" src="https://images.credly.com/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">](https://www.credly.com/badges/dbee24e4-0808-425e-962e-257be6f154d2/public_url)|Scrum Foundation Professional Certificate|Nov 2024|Nov 2027|
+## Certiport
+|Badge|Name|Issuing date|
+|-----|----|------------|
+|[<img height="110px" src="https://images.credly.com/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" />](https://www.credly.com/badges/70d228b5-9605-4ee9-99e3-f3134b34e057/public_url)|IT Specialist - Databases|Apr 2025|
+|[<img height="110px" src="https://images.credly.com/images/2210b6fe-0eda-415a-8aba-6c1400566728/ITS-Badges_Java_1200px.png" />](https://www.credly.com/badges/a65e2228-b304-41d2-b586-47d2385cc1e7/public_url)|IT Specialist - Java|Apr 2025|
+|[<img height="110px" src="https://images.credly.com/images/e2dc688d-de61-44a5-81af-ee96f117a211/ITS-Badges_HTML-and-CSS_1200px.png" />](https://www.credly.com/badges/642c1c71-04ef-404a-bb6b-c97e59e2c65c/public_url)|IT Specialist - HTML and CSS|Apr 2025|
 ## Cisco NetAcademy
 |Badge|Name|Issuing Date|
 |-----|----|------------|
